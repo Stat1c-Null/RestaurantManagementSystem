@@ -1,0 +1,17 @@
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.Form1.resources
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.csproj.GenerateResource.cache
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.AssemblyInfoInputs.cache
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.AssemblyInfo.cs
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.sourcelink.json
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.exe
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.deps.json
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.runtimeconfig.json
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.dll
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.pdb
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.dll
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\refint\JRestaurantSystem.dll
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.pdb
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.genruntimeconfig.cache
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\ref\JRestaurantSystem.dll
