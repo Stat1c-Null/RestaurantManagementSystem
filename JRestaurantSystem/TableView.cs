@@ -18,6 +18,11 @@ namespace JRestaurantSystem
             PageLabel.Text = TableName;
         }
 
+        /// <summary>
+        /// Close TableView window
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BackButton_Click(object sender, EventArgs e)
         {
             this.Close();

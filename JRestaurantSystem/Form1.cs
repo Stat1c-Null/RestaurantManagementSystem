@@ -20,6 +20,11 @@ namespace JRestaurantSystem
             return ToString();
         }
 
+        /// <summary>
+        /// Open Table View Window and pass in the name of the table
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Table2FButton_Click(object sender, EventArgs e)
         {
             string tableName = "Table 2F";
