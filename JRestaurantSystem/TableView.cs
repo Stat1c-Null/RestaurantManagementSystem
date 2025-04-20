@@ -12,10 +12,23 @@ namespace JRestaurantSystem
 {
     public partial class TableView : Form
     {
-        public TableView(string TableName)
+        public string tableNumber;
+        public string tableStatus;
+        public int numberOfSeats;
+        private Button tableButton;
+
+        public TableView(string tableNum, string status, Button button)
         {
             InitializeComponent();
-            PageLabel.Text = TableName;
+
+            tableNumber = tableNum;
+            PageLabel.Text = tableNumber;
+
+            tableStatus = status;
+
+            numberOfSeats = 4;
+
+            tableButton = button;
         }
 
         /// <summary>
@@ -25,7 +38,54 @@ namespace JRestaurantSystem
         /// <param name="e"></param>
         private void BackButton_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Hide();
+        }
+
+        /// <summary>
+        /// Update Status of the table and color of the button
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void SaveButton_Click(object sender, EventArgs e)
+        {
+            StatusLabel.Text = StatusSelector.Text;
+            tableStatus = StatusSelector.Text;
+            switch (tableStatus)
+            {
+                case "OPEN":
+                    tableButton.BackColor = Color.Lime;
+                    break;
+                case "OCCUPIED":
+                    tableButton.BackColor = Color.Yellow;
+                    break;
+                case "DIRTY":
+                    tableButton.BackColor = Color.Red;
+                    break;
+                default:
+                    tableButton.BackColor = Color.Lime;
+                    break;
+            }
+        }
+
+        /// <summary>
+        /// If user is closing window by clicking X at the top right corner, hide window instead
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void TableView_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (e.CloseReason == CloseReason.UserClosing)
+            {
+
+                e.Cancel = true;
+
+                this.Hide();
+            }
+        }
+
+        private void TableView_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

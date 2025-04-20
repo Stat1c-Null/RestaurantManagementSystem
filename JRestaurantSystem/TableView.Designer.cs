@@ -31,6 +31,7 @@
             BackButton = new Button();
             PageLabel = new Label();
             panel2 = new Panel();
+            SaveButton = new Button();
             SeatSelector = new ComboBox();
             StatusSelector = new ComboBox();
             StatusLabel = new Label();
@@ -44,7 +45,6 @@
             EastSeatButton = new Button();
             SouthSeatButton = new Button();
             WestSeatButton = new Button();
-            SaveButton = new Button();
             panel2.SuspendLayout();
             SuspendLayout();
             // 
@@ -96,6 +96,25 @@
             panel2.Size = new Size(534, 483);
             panel2.TabIndex = 6;
             // 
+            // SaveButton
+            // 
+            SaveButton.AutoSize = true;
+            SaveButton.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            SaveButton.Cursor = Cursors.Hand;
+            SaveButton.FlatAppearance.BorderColor = Color.FromArgb(113, 155, 191);
+            SaveButton.FlatAppearance.BorderSize = 20;
+            SaveButton.Font = new Font("Segoe UI", 21.8879986F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            SaveButton.ForeColor = Color.MidnightBlue;
+            SaveButton.Location = new Point(63, 415);
+            SaveButton.Margin = new Padding(2);
+            SaveButton.Name = "SaveButton";
+            SaveButton.Padding = new Padding(6, 0, 6, 0);
+            SaveButton.Size = new Size(112, 51);
+            SaveButton.TabIndex = 15;
+            SaveButton.Text = "SAVE";
+            SaveButton.UseVisualStyleBackColor = true;
+            SaveButton.Click += SaveButton_Click;
+            // 
             // SeatSelector
             // 
             SeatSelector.AllowDrop = true;
@@ -127,9 +146,9 @@
             StatusLabel.Location = new Point(39, 207);
             StatusLabel.Name = "StatusLabel";
             StatusLabel.Padding = new Padding(30, 0, 30, 0);
-            StatusLabel.Size = new Size(155, 25);
+            StatusLabel.Size = new Size(123, 25);
             StatusLabel.TabIndex = 12;
-            StatusLabel.Text = "Occupied";
+            StatusLabel.Text = "OPEN";
             // 
             // createOrderButton
             // 
@@ -256,24 +275,6 @@
             WestSeatButton.Text = "W";
             WestSeatButton.UseVisualStyleBackColor = false;
             // 
-            // SaveButton
-            // 
-            SaveButton.AutoSize = true;
-            SaveButton.AutoSizeMode = AutoSizeMode.GrowAndShrink;
-            SaveButton.Cursor = Cursors.Hand;
-            SaveButton.FlatAppearance.BorderColor = Color.FromArgb(113, 155, 191);
-            SaveButton.FlatAppearance.BorderSize = 20;
-            SaveButton.Font = new Font("Segoe UI", 21.8879986F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            SaveButton.ForeColor = Color.MidnightBlue;
-            SaveButton.Location = new Point(63, 415);
-            SaveButton.Margin = new Padding(2);
-            SaveButton.Name = "SaveButton";
-            SaveButton.Padding = new Padding(6, 0, 6, 0);
-            SaveButton.Size = new Size(112, 51);
-            SaveButton.TabIndex = 15;
-            SaveButton.Text = "SAVE";
-            SaveButton.UseVisualStyleBackColor = true;
-            // 
             // TableView
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -292,6 +293,7 @@
             Margin = new Padding(2);
             Name = "TableView";
             Text = "TableView";
+            Load += TableView_Load;
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
             ResumeLayout(false);
