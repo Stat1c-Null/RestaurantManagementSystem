@@ -32,3 +32,4 @@ Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\bin\Debug\net8.
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.genruntimeconfig.cache
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\ref\JRestaurantSystem.dll
 C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.RestaurantMap.resources
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.TableView.resources

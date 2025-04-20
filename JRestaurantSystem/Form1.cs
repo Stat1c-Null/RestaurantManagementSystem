@@ -22,7 +22,10 @@ namespace JRestaurantSystem
 
         private void Table2FButton_Click(object sender, EventArgs e)
         {
+            string tableName = "Table 2F";
+            TableView table2F = new TableView(tableName);
 
+            table2F.Show();
         }
     }
 
