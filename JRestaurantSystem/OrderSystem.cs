@@ -32,7 +32,7 @@ namespace Tsunami
             ["Sandwiches"] = new() { "Meatball Sub", "Cordon Bleu", "Club", "Grilled Cheese (V)" },
             ["Sides"] = new() { "Curly", "Wing Chips", "Creamy Cabbage", "Mashed Potatoes", "Broccoli" },
             ["Salads"] = new() { "House Salad", "Wedge Salad", "Caesar Salad", "Sweet Potato Chicken Salad" },
-            ["Beverages"] = new() { "Coke", "Sweet Tea", "Lemonade",  "Water" }
+            ["Beverages"] = new() { "Coke", "Sweet Tea", "Lemonade", "Water" }
         };
         private readonly Dictionary<string, string> descriptions = new()
         {
@@ -156,7 +156,7 @@ namespace Tsunami
 
 
 
-        
+
         /// <summary>
         /// Draws the menu categories, including a header label
         /// </summary>
@@ -241,7 +241,7 @@ namespace Tsunami
 
             foreach (var item in menu[currentCategory])
             {
-                var menuItem = item;  
+                var menuItem = item;
                 var btn = new Button
                 {
                     Text = menuItem,
@@ -463,5 +463,9 @@ namespace Tsunami
         private void btnBack_Click(object sender, EventArgs e) => ShowPage(prevPage);
         private void btnHome_Click(object sender, EventArgs e) => ShowPage(Page.Menu);
 
+        private void CloseButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
     }
 }

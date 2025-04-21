@@ -907,6 +907,7 @@ namespace JRestaurantSystem
             BarPanel.PerformLayout();
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
+            //WindowState = FormWindowState.Maximized;
             ResumeLayout(false);
             PerformLayout();
         }

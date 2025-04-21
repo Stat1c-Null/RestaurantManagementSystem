@@ -69,145 +69,221 @@ namespace Tsunami
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-
-            /// Header panel
-            this.pnlHeader = new System.Windows.Forms.Panel();
-            this.pnlHeader.BackColor = System.Drawing.Color.FromArgb(21, 48, 74);
-            this.pnlHeader.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pnlHeader.Height = 100;
-
-            this.lblTitle = new System.Windows.Forms.Label();
-            this.lblTitle.AutoSize = true;
-            this.lblTitle.Font = new System.Drawing.Font("Segoe UI", 28F, System.Drawing.FontStyle.Bold);
-            this.lblTitle.ForeColor = System.Drawing.Color.White;
-            this.lblTitle.Location = new System.Drawing.Point(20, 20);
-            this.lblTitle.Text = "Table X";
-            this.pnlHeader.Controls.Add(this.lblTitle);
-
-            this.lblInfo = new System.Windows.Forms.Label();
-            this.lblInfo.AutoSize = true;
-            this.lblInfo.Font = new System.Drawing.Font("Segoe UI", 10F);
-            this.lblInfo.ForeColor = System.Drawing.Color.White;
-            this.lblInfo.Location = new System.Drawing.Point(20, 60);
-            this.lblInfo.Text = "#12345678    " + DateTime.Now.ToString("MM/dd/yy  hh:mm tt");
-            this.pnlHeader.Controls.Add(this.lblInfo);
-
-            this.lblEmp = new System.Windows.Forms.Label();
-            this.lblEmp.Dock = System.Windows.Forms.DockStyle.Right;
-            this.lblEmp.Width = 200;
-            this.lblEmp.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
-            this.lblEmp.ForeColor = System.Drawing.Color.White;
-            this.lblEmp.Text = "Employee Name\nWaiter";
-            this.lblEmp.TextAlign = System.Drawing.ContentAlignment.TopRight;
-            this.pnlHeader.Controls.Add(this.lblEmp);
-
-            /// Sidebar
-            this.pnlSidebar = new System.Windows.Forms.Panel();
-            this.pnlSidebar.BackColor = System.Drawing.Color.FromArgb(52, 152, 219);
-            this.pnlSidebar.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pnlSidebar.Width = 250;
-
-            this.dgvOrder = new System.Windows.Forms.DataGridView();
-
-            /// create columns
-            var colItem = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            var colRemove = new System.Windows.Forms.DataGridViewButtonColumn();
-
-            /// configure text column
+            pnlHeader = new Panel();
+            lblTitle = new Label();
+            lblInfo = new Label();
+            lblEmp = new Label();
+            pnlSidebar = new Panel();
+            dgvOrder = new DataGridView();
+            colItem = new DataGridViewTextBoxColumn();
+            colRemove = new DataGridViewButtonColumn();
+            pnlContent = new Panel();
+            pnlFooter = new Panel();
+            CloseButton = new Button();
+            lblTotal = new Label();
+            btnBack = new Button();
+            btnHome = new Button();
+            btnConfirmOrder = new Button();
+            pnlHeader.SuspendLayout();
+            pnlSidebar.SuspendLayout();
+            ((ISupportInitialize)dgvOrder).BeginInit();
+            pnlFooter.SuspendLayout();
+            SuspendLayout();
+            // 
+            // pnlHeader
+            // 
+            pnlHeader.BackColor = Color.FromArgb(21, 48, 74);
+            pnlHeader.Controls.Add(lblTitle);
+            pnlHeader.Controls.Add(lblInfo);
+            pnlHeader.Controls.Add(lblEmp);
+            pnlHeader.Dock = DockStyle.Top;
+            pnlHeader.Location = new Point(0, 0);
+            pnlHeader.Name = "pnlHeader";
+            pnlHeader.Size = new Size(1200, 100);
+            pnlHeader.TabIndex = 3;
+            // 
+            // lblTitle
+            // 
+            lblTitle.AutoSize = true;
+            lblTitle.Font = new Font("Segoe UI", 28F, FontStyle.Bold);
+            lblTitle.ForeColor = Color.White;
+            lblTitle.Location = new Point(3, 0);
+            lblTitle.Name = "lblTitle";
+            lblTitle.Size = new Size(152, 51);
+            lblTitle.TabIndex = 0;
+            lblTitle.Text = "Table X";
+            // 
+            // lblInfo
+            // 
+            lblInfo.AutoSize = true;
+            lblInfo.Font = new Font("Segoe UI", 10F);
+            lblInfo.ForeColor = Color.White;
+            lblInfo.Location = new Point(20, 60);
+            lblInfo.Name = "lblInfo";
+            lblInfo.Size = new Size(198, 19);
+            lblInfo.TabIndex = 1;
+            lblInfo.Text = "#12345678    04.21.25  01:46 ";
+            // 
+            // lblEmp
+            // 
+            lblEmp.Dock = DockStyle.Right;
+            lblEmp.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            lblEmp.ForeColor = Color.White;
+            lblEmp.Location = new Point(1000, 0);
+            lblEmp.Name = "lblEmp";
+            lblEmp.Size = new Size(200, 100);
+            lblEmp.TabIndex = 2;
+            lblEmp.Text = "Employee Name\nWaiter";
+            lblEmp.TextAlign = ContentAlignment.TopRight;
+            // 
+            // pnlSidebar
+            // 
+            pnlSidebar.BackColor = Color.FromArgb(52, 152, 219);
+            pnlSidebar.Controls.Add(dgvOrder);
+            pnlSidebar.Dock = DockStyle.Left;
+            pnlSidebar.Location = new Point(0, 100);
+            pnlSidebar.Name = "pnlSidebar";
+            pnlSidebar.Size = new Size(250, 600);
+            pnlSidebar.TabIndex = 1;
+            // 
+            // dgvOrder
+            // 
+            dgvOrder.AllowUserToAddRows = false;
+            dgvOrder.BackgroundColor = Color.White;
+            dgvOrder.BorderStyle = BorderStyle.None;
+            dgvOrder.Columns.AddRange(new DataGridViewColumn[] { colItem, colRemove });
+            dgvOrder.Dock = DockStyle.Fill;
+            dgvOrder.Location = new Point(0, 0);
+            dgvOrder.Name = "dgvOrder";
+            dgvOrder.RowHeadersVisible = false;
+            dgvOrder.Size = new Size(250, 600);
+            dgvOrder.TabIndex = 0;
+            // 
+            // colItem
+            // 
+            colItem.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
             colItem.HeaderText = "Item";
             colItem.Name = "colItem";
-            colItem.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-
-            /// configure remove‑button column
+            // 
+            // colRemove
+            // 
             colRemove.HeaderText = "";
             colRemove.Name = "colRemove";
             colRemove.Text = "✕";
             colRemove.UseColumnTextForButtonValue = true;
             colRemove.Width = 30;
-
-            /// add columns and style the grid
-            this.dgvOrder.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-    colItem, colRemove
-});
-            this.dgvOrder.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvOrder.AllowUserToAddRows = false;
-            this.dgvOrder.RowHeadersVisible = false;
-            this.dgvOrder.BackgroundColor = System.Drawing.Color.White;
-            this.dgvOrder.BorderStyle = System.Windows.Forms.BorderStyle.None;
-
-            /// finally add to sidebar
-            this.pnlSidebar.Controls.Add(this.dgvOrder);
-
-            /// Content area
-            this.pnlContent = new System.Windows.Forms.Panel();
-            this.pnlContent.BackColor = System.Drawing.Color.FromArgb(21, 48, 74);
-            this.pnlContent.Dock = System.Windows.Forms.DockStyle.Fill;
-
-            /// Footer
-            this.pnlFooter = new System.Windows.Forms.Panel();
-            this.pnlFooter.BackColor = System.Drawing.Color.FromArgb(8, 32, 62);
-            this.pnlFooter.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.pnlFooter.Height = 100;
-
-
-            /// Footer label
-            this.lblTotal = new System.Windows.Forms.Label();
-            this.lblTotal.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold);
-            this.lblTotal.ForeColor = System.Drawing.Color.White;
-
-            /// pick an X so it sits centered-ish in the footer
-            this.lblTotal.Location = new System.Drawing.Point(400, 30);
-            this.lblTotal.AutoSize = true;
-            this.lblTotal.Text = "Total: $0.00";
-            this.pnlFooter.Controls.Add(this.lblTotal);
-
-            /// Back button
-            this.btnBack = new System.Windows.Forms.Button();
-            this.btnBack.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold);
-            this.btnBack.Size = new System.Drawing.Size(120, 60);
-            this.btnBack.Location = new System.Drawing.Point(20, 20);
-            this.btnBack.Text = "BACK";
-            this.btnBack.BackColor = System.Drawing.Color.White;
-            this.btnBack.ForeColor = System.Drawing.Color.FromArgb(8, 32, 62);
-            this.btnBack.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
-            this.pnlFooter.Controls.Add(this.btnBack);
-
-            /// Home button
-            this.btnHome = new System.Windows.Forms.Button();
-            this.btnHome.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold);
-            this.btnHome.Size = new System.Drawing.Size(140, 60);
-            this.btnHome.Location = new System.Drawing.Point(160, 20);
-            this.btnHome.Text = "HOME";
-            this.btnHome.BackColor = System.Drawing.Color.White;
-            this.btnHome.ForeColor = System.Drawing.Color.FromArgb(8, 32, 62);
-            this.btnHome.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnHome.Click += new System.EventHandler(this.btnHome_Click);
-            this.pnlFooter.Controls.Add(this.btnHome);
-
-            ///Confirm Order Button
-            this.btnConfirmOrder = new System.Windows.Forms.Button();
-            this.btnConfirmOrder.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold);
-            this.btnConfirmOrder.Size = new System.Drawing.Size(180, 60);
-
-            this.btnConfirmOrder.Location = new System.Drawing.Point(this.ClientSize.Width - 340, 20);
-            this.btnConfirmOrder.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right;
-            this.btnConfirmOrder.Text = "CONFIRM ORDER";
-            this.btnConfirmOrder.BackColor = System.Drawing.Color.White;
-            this.btnConfirmOrder.ForeColor = System.Drawing.Color.FromArgb(8, 32, 62);
-            this.btnConfirmOrder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnConfirmOrder.Click += new System.EventHandler(this.btnConfirmOrder_Click);
-            this.pnlFooter.Controls.Add(this.btnConfirmOrder);
-
-            /// Form
-            this.ClientSize = new System.Drawing.Size(1200, 800);
-            this.Controls.Add(this.pnlContent);
-            this.Controls.Add(this.pnlSidebar);
-            this.Controls.Add(this.pnlFooter);
-            this.Controls.Add(this.pnlHeader);
-            this.Text = "Restaurant Order System";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            // 
+            // pnlContent
+            // 
+            pnlContent.BackColor = Color.FromArgb(21, 48, 74);
+            pnlContent.Dock = DockStyle.Fill;
+            pnlContent.Location = new Point(250, 100);
+            pnlContent.Name = "pnlContent";
+            pnlContent.Size = new Size(950, 600);
+            pnlContent.TabIndex = 0;
+            // 
+            // pnlFooter
+            // 
+            pnlFooter.BackColor = Color.FromArgb(8, 32, 62);
+            pnlFooter.Controls.Add(CloseButton);
+            pnlFooter.Controls.Add(lblTotal);
+            pnlFooter.Controls.Add(btnBack);
+            pnlFooter.Controls.Add(btnHome);
+            pnlFooter.Controls.Add(btnConfirmOrder);
+            pnlFooter.Dock = DockStyle.Bottom;
+            pnlFooter.Location = new Point(0, 700);
+            pnlFooter.Name = "pnlFooter";
+            pnlFooter.Size = new Size(1200, 100);
+            pnlFooter.TabIndex = 2;
+            // 
+            // CloseButton
+            // 
+            CloseButton.BackColor = Color.White;
+            CloseButton.FlatStyle = FlatStyle.Flat;
+            CloseButton.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            CloseButton.ForeColor = Color.FromArgb(8, 32, 62);
+            CloseButton.Location = new Point(323, 20);
+            CloseButton.Name = "CloseButton";
+            CloseButton.Size = new Size(140, 60);
+            CloseButton.TabIndex = 4;
+            CloseButton.Text = "CLOSE";
+            CloseButton.UseVisualStyleBackColor = false;
+            CloseButton.Click += CloseButton_Click;
+            // 
+            // lblTotal
+            // 
+            lblTotal.AutoSize = true;
+            lblTotal.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            lblTotal.ForeColor = Color.White;
+            lblTotal.Location = new Point(497, 20);
+            lblTotal.Name = "lblTotal";
+            lblTotal.Size = new Size(134, 30);
+            lblTotal.TabIndex = 0;
+            lblTotal.Text = "Total: $0.00";
+            // 
+            // btnBack
+            // 
+            btnBack.BackColor = Color.White;
+            btnBack.FlatStyle = FlatStyle.Flat;
+            btnBack.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            btnBack.ForeColor = Color.FromArgb(8, 32, 62);
+            btnBack.Location = new Point(20, 20);
+            btnBack.Name = "btnBack";
+            btnBack.Size = new Size(120, 60);
+            btnBack.TabIndex = 1;
+            btnBack.Text = "BACK";
+            btnBack.UseVisualStyleBackColor = false;
+            btnBack.Click += btnBack_Click;
+            // 
+            // btnHome
+            // 
+            btnHome.BackColor = Color.White;
+            btnHome.FlatStyle = FlatStyle.Flat;
+            btnHome.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            btnHome.ForeColor = Color.FromArgb(8, 32, 62);
+            btnHome.Location = new Point(160, 20);
+            btnHome.Name = "btnHome";
+            btnHome.Size = new Size(140, 60);
+            btnHome.TabIndex = 2;
+            btnHome.Text = "HOME";
+            btnHome.UseVisualStyleBackColor = false;
+            btnHome.Click += btnHome_Click;
+            // 
+            // btnConfirmOrder
+            // 
+            btnConfirmOrder.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            btnConfirmOrder.BackColor = Color.White;
+            btnConfirmOrder.FlatStyle = FlatStyle.Flat;
+            btnConfirmOrder.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            btnConfirmOrder.ForeColor = Color.FromArgb(8, 32, 62);
+            btnConfirmOrder.Location = new Point(1284, 20);
+            btnConfirmOrder.Name = "btnConfirmOrder";
+            btnConfirmOrder.Size = new Size(180, 60);
+            btnConfirmOrder.TabIndex = 3;
+            btnConfirmOrder.Text = "CONFIRM ORDER";
+            btnConfirmOrder.UseVisualStyleBackColor = false;
+            btnConfirmOrder.Click += btnConfirmOrder_Click;
+            // 
+            // OrderSystem
+            // 
+            ClientSize = new Size(1200, 800);
+            Controls.Add(pnlContent);
+            Controls.Add(pnlSidebar);
+            Controls.Add(pnlFooter);
+            Controls.Add(pnlHeader);
+            Name = "OrderSystem";
+            Text = "Restaurant Order System";
+            WindowState = FormWindowState.Maximized;
+            pnlHeader.ResumeLayout(false);
+            pnlHeader.PerformLayout();
+            pnlSidebar.ResumeLayout(false);
+            ((ISupportInitialize)dgvOrder).EndInit();
+            pnlFooter.ResumeLayout(false);
+            pnlFooter.PerformLayout();
+            ResumeLayout(false);
         }
+        private DataGridViewTextBoxColumn colItem;
+        private DataGridViewButtonColumn colRemove;
+        private Button CloseButton;
     }
 }
