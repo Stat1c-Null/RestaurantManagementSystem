@@ -77,7 +77,7 @@ namespace JRestaurantSystem
                 {
                     Waiter loggedInWaiter = loginManager.GetCurrentWaiter();
                     lblResult.Text = $"Correct! Welcome {loggedInWaiter.Name}";
-                    RestaurantMap restaurantMap = new RestaurantMap();
+                    RestaurantMap restaurantMap = new RestaurantMap(loggedInWaiter);
                     restaurantMap.Show();
                     this.Hide();
                 }

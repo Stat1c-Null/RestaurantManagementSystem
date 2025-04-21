@@ -18,13 +18,16 @@ namespace JRestaurantSystem
         public int numberOfSeats;
         private Button tableButton;
 
+        private Waiter loggedInWaiter;
+
         /// <summary>
         /// Constructor class that initializes a Table class with tableNumber, status and button assigned to it from restaurant map
         /// </summary>
         /// <param name="tableNum"></param>
         /// <param name="status"></param>
         /// <param name="button"></param>
-        public TableView(string tableNum, string status, Button button)
+        /// <param name="loggedInWaiter"></param>
+        public TableView(string tableNum, string status, Button button, Waiter loggedInWaiter)
         {
             InitializeComponent();
 
@@ -36,6 +39,7 @@ namespace JRestaurantSystem
             numberOfSeats = 4;
 
             tableButton = button;
+            this.loggedInWaiter = loggedInWaiter;
         }
 
         /// <summary>
@@ -105,7 +109,7 @@ namespace JRestaurantSystem
 
         private void createOrderButton_Click(object sender, EventArgs e)
         {
-            OrderSystem order = new OrderSystem();
+            OrderSystem order = new OrderSystem(loggedInWaiter.Name, tableNumber);
             order.Show();
         }
     }

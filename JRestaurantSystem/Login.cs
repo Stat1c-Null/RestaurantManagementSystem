@@ -10,7 +10,7 @@ namespace JRestaurantSystem
     {
         private List<Waiter> waiters;
         private List<int> employeeLoginNums;
-        private Waiter currentWaiter;
+        private static Waiter currentWaiter;
         private string filePath;
 
         public Login()
@@ -78,7 +78,7 @@ namespace JRestaurantSystem
             }
         }
 
-        public void logOut(int employeeNum)
+        public static void logOut(int employeeNum)
         {
             if (currentWaiter != null && currentWaiter.EmployeeNum == employeeNum)
             {

@@ -657,6 +657,7 @@ namespace JRestaurantSystem
             LogOutButton.TabIndex = 1;
             LogOutButton.Text = "LOG OUT";
             LogOutButton.UseVisualStyleBackColor = false;
+            LogOutButton.Click += LogOutButton_Click;
             // 
             // PageLabel
             // 
@@ -674,7 +675,7 @@ namespace JRestaurantSystem
             Role.AutoSize = true;
             Role.Font = new Font("Segoe UI", 17.855999F, FontStyle.Bold, GraphicsUnit.Point, 0);
             Role.ForeColor = SystemColors.ButtonFace;
-            Role.Location = new Point(1052, 39);
+            Role.Location = new Point(1017, 41);
             Role.Name = "Role";
             Role.Size = new Size(89, 32);
             Role.TabIndex = 3;
@@ -907,7 +908,6 @@ namespace JRestaurantSystem
             BarPanel.PerformLayout();
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
-            //WindowState = FormWindowState.Maximized;
             ResumeLayout(false);
             PerformLayout();
         }

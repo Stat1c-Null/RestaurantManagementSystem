@@ -20,6 +20,8 @@ namespace Tsunami
 
         private string currentCategory, currentItem;
 
+        private string waiterName;
+
 
 
         /// <summary>
@@ -115,7 +117,7 @@ namespace Tsunami
 
         };
 
-        public OrderSystem()
+        public OrderSystem(string waiterName, string tableNumber)
         {
             InitializeComponent();
 
@@ -131,6 +133,10 @@ namespace Tsunami
 
 
             ShowPage(Page.Menu);
+            this.waiterName = waiterName;
+            lblEmp.Text = waiterName + "\nWaiter";
+
+            lblTitle.Text = tableNumber;
         }
 
         /// <summary>
