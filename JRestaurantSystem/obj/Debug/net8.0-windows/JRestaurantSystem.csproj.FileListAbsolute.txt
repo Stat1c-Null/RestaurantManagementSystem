@@ -34,3 +34,4 @@ C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\
 C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.TableView.resources
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.RestaurantMap.resources
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.TableView.resources
+Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\Tsunami.OrderSystem.resources

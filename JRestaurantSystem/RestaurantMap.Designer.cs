@@ -1,4 +1,10 @@
-﻿namespace JRestaurantSystem
+﻿using System;
+using System.ComponentModel;
+using System.Drawing;
+using System.Windows.Forms;
+
+
+namespace JRestaurantSystem
 {
     partial class RestaurantMap
     {
@@ -687,6 +693,7 @@
             // 
             // panel2
             // 
+            panel2.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             panel2.BackColor = Color.FromArgb(43, 75, 120);
             panel2.Controls.Add(OpenSeatsLabel);
             panel2.Controls.Add(DirtySeatsLabel);
@@ -706,7 +713,7 @@
             panel2.Location = new Point(581, 74);
             panel2.Margin = new Padding(2);
             panel2.Name = "panel2";
-            panel2.Size = new Size(591, 447);
+            panel2.Size = new Size(594, 447);
             panel2.TabIndex = 5;
             // 
             // OpenSeatsLabel
@@ -924,9 +931,6 @@
         private Label OpenSeatsLabel;
         private Label DirtySeatsLabel;
         private Label OccupiedSeatsLabel;
-        private static Label OccupiedTablesLabel;
-        private static Label DirtyTablesLabel;
-        private static Label OpenTablesLabel;
         private Label label9;
         private Label label14;
         private Label label13;
@@ -971,5 +975,8 @@
         private Button Table4FButton;
         private Button Table4DButton;
         private Button Table4CButton;
+        private static Label OccupiedTablesLabel;
+        private static Label DirtyTablesLabel;
+        private static Label OpenTablesLabel;
     }
 }

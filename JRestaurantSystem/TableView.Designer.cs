@@ -42,10 +42,10 @@
             label1 = new Label();
             panel1 = new Panel();
             NorthSeatButton = new Button();
-            EastSeatButton = new Button();
-            SouthSeatButton = new Button();
-            WestSeatButton = new Button();
             panel3 = new Panel();
+            WestSeatButton = new Button();
+            SouthSeatButton = new Button();
+            EastSeatButton = new Button();
             panel2.SuspendLayout();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -170,6 +170,7 @@
             createOrderButton.TabIndex = 11;
             createOrderButton.Text = "CREATE ORDER";
             createOrderButton.UseVisualStyleBackColor = true;
+            createOrderButton.Click += createOrderButton_Click;
             // 
             // viewOrderButton
             // 
@@ -247,29 +248,13 @@
             NorthSeatButton.Text = "N";
             NorthSeatButton.UseVisualStyleBackColor = false;
             // 
-            // EastSeatButton
+            // panel3
             // 
-            EastSeatButton.BackColor = Color.FromArgb(171, 213, 247);
-            EastSeatButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            EastSeatButton.Location = new Point(299, 141);
-            EastSeatButton.Margin = new Padding(2);
-            EastSeatButton.Name = "EastSeatButton";
-            EastSeatButton.Size = new Size(48, 45);
-            EastSeatButton.TabIndex = 46;
-            EastSeatButton.Text = "E";
-            EastSeatButton.UseVisualStyleBackColor = false;
-            // 
-            // SouthSeatButton
-            // 
-            SouthSeatButton.BackColor = Color.FromArgb(171, 213, 247);
-            SouthSeatButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            SouthSeatButton.Location = new Point(166, 274);
-            SouthSeatButton.Margin = new Padding(2);
-            SouthSeatButton.Name = "SouthSeatButton";
-            SouthSeatButton.Size = new Size(48, 45);
-            SouthSeatButton.TabIndex = 47;
-            SouthSeatButton.Text = "S";
-            SouthSeatButton.UseVisualStyleBackColor = false;
+            panel3.BackColor = Color.FromArgb(43, 75, 120);
+            panel3.Location = new Point(116, 99);
+            panel3.Name = "panel3";
+            panel3.Size = new Size(148, 138);
+            panel3.TabIndex = 0;
             // 
             // WestSeatButton
             // 
@@ -283,13 +268,29 @@
             WestSeatButton.Text = "W";
             WestSeatButton.UseVisualStyleBackColor = false;
             // 
-            // panel3
+            // SouthSeatButton
             // 
-            panel3.BackColor = Color.FromArgb(43, 75, 120);
-            panel3.Location = new Point(116, 99);
-            panel3.Name = "panel3";
-            panel3.Size = new Size(148, 138);
-            panel3.TabIndex = 0;
+            SouthSeatButton.BackColor = Color.FromArgb(171, 213, 247);
+            SouthSeatButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            SouthSeatButton.Location = new Point(166, 274);
+            SouthSeatButton.Margin = new Padding(2);
+            SouthSeatButton.Name = "SouthSeatButton";
+            SouthSeatButton.Size = new Size(48, 45);
+            SouthSeatButton.TabIndex = 47;
+            SouthSeatButton.Text = "S";
+            SouthSeatButton.UseVisualStyleBackColor = false;
+            // 
+            // EastSeatButton
+            // 
+            EastSeatButton.BackColor = Color.FromArgb(171, 213, 247);
+            EastSeatButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            EastSeatButton.Location = new Point(299, 141);
+            EastSeatButton.Margin = new Padding(2);
+            EastSeatButton.Name = "EastSeatButton";
+            EastSeatButton.Size = new Size(48, 45);
+            EastSeatButton.TabIndex = 46;
+            EastSeatButton.Text = "E";
+            EastSeatButton.UseVisualStyleBackColor = false;
             // 
             // TableView
             // 
