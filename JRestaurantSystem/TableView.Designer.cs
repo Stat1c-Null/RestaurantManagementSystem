@@ -45,7 +45,9 @@
             EastSeatButton = new Button();
             SouthSeatButton = new Button();
             WestSeatButton = new Button();
+            panel3 = new Panel();
             panel2.SuspendLayout();
+            panel1.SuspendLayout();
             SuspendLayout();
             // 
             // BackButton
@@ -57,7 +59,7 @@
             BackButton.FlatAppearance.BorderSize = 20;
             BackButton.Font = new Font("Segoe UI", 24.192F, FontStyle.Bold, GraphicsUnit.Point, 0);
             BackButton.ForeColor = Color.MidnightBlue;
-            BackButton.Location = new Point(9, 428);
+            BackButton.Location = new Point(11, 414);
             BackButton.Margin = new Padding(2);
             BackButton.Name = "BackButton";
             BackButton.Padding = new Padding(23, 0, 23, 0);
@@ -72,11 +74,12 @@
             PageLabel.AutoSize = true;
             PageLabel.Font = new Font("Segoe UI", 29.952F, FontStyle.Bold, GraphicsUnit.Point, 0);
             PageLabel.ForeColor = SystemColors.ButtonFace;
-            PageLabel.Location = new Point(9, 6);
+            PageLabel.Location = new Point(-4, -1);
             PageLabel.Name = "PageLabel";
             PageLabel.Size = new Size(123, 54);
             PageLabel.TabIndex = 2;
             PageLabel.Text = "Table";
+            PageLabel.Click += PageLabel_Click;
             // 
             // panel2
             // 
@@ -221,17 +224,22 @@
             // 
             // panel1
             // 
-            panel1.BackColor = Color.FromArgb(43, 75, 120);
-            panel1.Location = new Point(109, 155);
+            panel1.BackColor = Color.FromArgb(117, 160, 195);
+            panel1.Controls.Add(NorthSeatButton);
+            panel1.Controls.Add(panel3);
+            panel1.Controls.Add(WestSeatButton);
+            panel1.Controls.Add(SouthSeatButton);
+            panel1.Controls.Add(EastSeatButton);
+            panel1.Location = new Point(-4, 56);
             panel1.Name = "panel1";
-            panel1.Size = new Size(154, 138);
+            panel1.Size = new Size(392, 339);
             panel1.TabIndex = 7;
             // 
             // NorthSeatButton
             // 
             NorthSeatButton.BackColor = Color.FromArgb(171, 213, 247);
             NorthSeatButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            NorthSeatButton.Location = new Point(159, 85);
+            NorthSeatButton.Location = new Point(166, 17);
             NorthSeatButton.Margin = new Padding(2);
             NorthSeatButton.Name = "NorthSeatButton";
             NorthSeatButton.Size = new Size(48, 45);
@@ -243,7 +251,7 @@
             // 
             EastSeatButton.BackColor = Color.FromArgb(171, 213, 247);
             EastSeatButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            EastSeatButton.Location = new Point(295, 197);
+            EastSeatButton.Location = new Point(299, 141);
             EastSeatButton.Margin = new Padding(2);
             EastSeatButton.Name = "EastSeatButton";
             EastSeatButton.Size = new Size(48, 45);
@@ -255,7 +263,7 @@
             // 
             SouthSeatButton.BackColor = Color.FromArgb(171, 213, 247);
             SouthSeatButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            SouthSeatButton.Location = new Point(159, 330);
+            SouthSeatButton.Location = new Point(166, 274);
             SouthSeatButton.Margin = new Padding(2);
             SouthSeatButton.Name = "SouthSeatButton";
             SouthSeatButton.Size = new Size(48, 45);
@@ -267,13 +275,21 @@
             // 
             WestSeatButton.BackColor = Color.FromArgb(171, 213, 247);
             WestSeatButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            WestSeatButton.Location = new Point(27, 197);
+            WestSeatButton.Location = new Point(33, 141);
             WestSeatButton.Margin = new Padding(2);
             WestSeatButton.Name = "WestSeatButton";
             WestSeatButton.Size = new Size(48, 45);
             WestSeatButton.TabIndex = 48;
             WestSeatButton.Text = "W";
             WestSeatButton.UseVisualStyleBackColor = false;
+            // 
+            // panel3
+            // 
+            panel3.BackColor = Color.FromArgb(43, 75, 120);
+            panel3.Location = new Point(116, 99);
+            panel3.Name = "panel3";
+            panel3.Size = new Size(148, 138);
+            panel3.TabIndex = 0;
             // 
             // TableView
             // 
@@ -282,20 +298,17 @@
             AutoSizeMode = AutoSizeMode.GrowAndShrink;
             BackColor = Color.FromArgb(13, 32, 81);
             ClientSize = new Size(921, 484);
-            Controls.Add(WestSeatButton);
-            Controls.Add(SouthSeatButton);
-            Controls.Add(EastSeatButton);
-            Controls.Add(NorthSeatButton);
+            Controls.Add(BackButton);
+            Controls.Add(PageLabel);
             Controls.Add(panel1);
             Controls.Add(panel2);
-            Controls.Add(PageLabel);
-            Controls.Add(BackButton);
             Margin = new Padding(2);
             Name = "TableView";
             Text = "TableView";
             Load += TableView_Load;
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
+            panel1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -319,5 +332,6 @@
         private Button SouthSeatButton;
         private Button WestSeatButton;
         private Button SaveButton;
+        private Panel panel3;
     }
 }

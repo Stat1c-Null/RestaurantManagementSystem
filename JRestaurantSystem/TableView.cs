@@ -96,5 +96,10 @@ namespace JRestaurantSystem
         {
 
         }
+
+        private void PageLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
