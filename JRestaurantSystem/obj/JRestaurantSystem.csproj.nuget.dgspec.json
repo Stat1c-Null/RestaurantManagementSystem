@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\JRestaurantSystem.csproj": {}
+    "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\RestaurantManagementSystem-main\\JRestaurantSystem\\JRestaurantSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\JRestaurantSystem.csproj": {
+    "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\RestaurantManagementSystem-main\\JRestaurantSystem\\JRestaurantSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\JRestaurantSystem.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\RestaurantManagementSystem-main\\JRestaurantSystem\\JRestaurantSystem.csproj",
         "projectName": "JRestaurantSystem",
-        "projectPath": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\JRestaurantSystem.csproj",
-        "packagesPath": "C:\\Users\\slaby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\obj\\",
+        "projectPath": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\RestaurantManagementSystem-main\\JRestaurantSystem\\JRestaurantSystem.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\RestaurantManagementSystem-main\\JRestaurantSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\slaby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
