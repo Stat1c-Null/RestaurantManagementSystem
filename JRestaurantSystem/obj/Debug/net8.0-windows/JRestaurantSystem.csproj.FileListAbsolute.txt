@@ -40,3 +40,9 @@ Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.LoginForm.resources
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.Form1.resources
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\bin\Debug\net8.0-windows\waiters.txt
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\bin\Debug\net8.0-windows\waiters.txt
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.ExitConfirmationForm.resources
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.KitchenForm.resources
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.LoginForm.resources
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\Tsunami.OrderSystem.resources
+C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.Form1.resources

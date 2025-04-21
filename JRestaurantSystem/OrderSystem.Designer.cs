@@ -61,7 +61,7 @@ namespace Tsunami
                 MessageBoxIcon.Information
             );
 
-            /// TODO: send confirmedItems to your backend or persist them
+            /// Send order to the kitchen
             string tableNumber = lblTitle.Text;
         
             string waiterName = lblEmp.Text;

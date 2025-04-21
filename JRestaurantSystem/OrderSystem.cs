@@ -457,7 +457,7 @@ namespace Tsunami
                     total += price;
                 }
             }
-            lblTotal.Text = $"Total: {total:C}";
+            lblTotal.Text = $"Total: ${total}";
         }
 
 
