@@ -13,7 +13,7 @@ namespace JRestaurantSystem
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             ApplicationConfiguration.Initialize();
-            Application.Run(new RestaurantMap());
+            Application.Run(new LoginForm());
         }
     }
 }

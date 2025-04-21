@@ -268,10 +268,5 @@ namespace JRestaurantSystem
         }
     }
 
-    public class Waiter
-    {
-        public static TableView[] assignedTables;
-        public string name;
-        public int employeeNum;
-    }
+    
 }

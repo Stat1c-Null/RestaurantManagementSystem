@@ -35,3 +35,8 @@ C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.RestaurantMap.resources
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.TableView.resources
 Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\Tsunami.OrderSystem.resources
+Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.ExitConfirmationForm.resources
+Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.KitchenForm.resources
+Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.LoginForm.resources
+Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.Form1.resources
+Z:\Coding\GitHub\C#\RestaurantManagementSystem\JRestaurantSystem\bin\Debug\net8.0-windows\waiters.txt
