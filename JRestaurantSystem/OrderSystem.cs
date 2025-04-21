@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JRestaurantSystem;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -22,7 +23,7 @@ namespace Tsunami
 
         private string waiterName;
 
-
+        public KitchenForm kitchenForm;
 
         /// <summary>
         /// Menu categories and items
@@ -117,7 +118,7 @@ namespace Tsunami
 
         };
 
-        public OrderSystem(string waiterName, string tableNumber)
+        public OrderSystem(string waiterName, string tableNumber, KitchenForm kitchenForm)
         {
             InitializeComponent();
 
@@ -134,9 +135,10 @@ namespace Tsunami
 
             ShowPage(Page.Menu);
             this.waiterName = waiterName;
-            lblEmp.Text = waiterName + "\nWaiter";
+            lblEmp.Text = waiterName;
 
             lblTitle.Text = tableNumber;
+            this.kitchenForm = kitchenForm;
         }
 
         /// <summary>

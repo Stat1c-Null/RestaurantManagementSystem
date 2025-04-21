@@ -189,6 +189,7 @@
             viewOrderButton.TabIndex = 7;
             viewOrderButton.Text = "VIEW ORDER";
             viewOrderButton.UseVisualStyleBackColor = true;
+            viewOrderButton.Click += viewOrderButton_Click;
             // 
             // label3
             // 

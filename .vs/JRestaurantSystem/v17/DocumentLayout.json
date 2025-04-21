@@ -3,40 +3,68 @@
   "WorkspaceRootPath": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\kitchenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\ordersystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\tableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\tableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\restaurantmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,24 +75,8 @@
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\jrestaurantsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|z:\\coding\\github\\c#\\restaurantmanagementsystem\\jrestaurantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +106,31 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
+              "Title": "KitchenForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\KitchenForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.cs",
+              "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\KitchenForm.cs [Design]",
+              "RelativeToolTip": "JRestaurantSystem\\KitchenForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:40:20.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QueueForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\QueueForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\QueueForm.cs",
+              "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\QueueForm.cs [Design]",
+              "RelativeToolTip": "JRestaurantSystem\\QueueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:48:41.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "waiters.txt",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\waiters.txt",
               "RelativeDocumentMoniker": "JRestaurantSystem\\waiters.txt",
@@ -107,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "LoginForm.Designer.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.Designer.cs",
@@ -120,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.cs",
@@ -132,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.cs",
@@ -145,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Login.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\Login.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\Login.cs",
@@ -171,71 +207,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "QueueForm.cs",
+              "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\QueueForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\QueueForm.cs",
+              "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\QueueForm.cs",
+              "RelativeToolTip": "JRestaurantSystem\\QueueForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:48:46.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitchenForm.Designer.cs",
+              "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\KitchenForm.Designer.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.Designer.cs",
+              "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\KitchenForm.Designer.cs",
+              "RelativeToolTip": "JRestaurantSystem\\KitchenForm.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:37:56.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "KitchenForm.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\KitchenForm.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.cs",
               "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\KitchenForm.cs",
               "RelativeToolTip": "JRestaurantSystem\\KitchenForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T04:41:28.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "KitchenForm.cs [Design]",
-              "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\KitchenForm.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.cs",
-              "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\KitchenForm.cs [Design]",
-              "RelativeToolTip": "JRestaurantSystem\\KitchenForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:41:24.687Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\Order.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\Order.cs",
               "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\Order.cs",
               "RelativeToolTip": "JRestaurantSystem\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T04:41:17.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "OrderSystem.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\OrderSystem.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\OrderSystem.cs",
               "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\OrderSystem.cs",
               "RelativeToolTip": "JRestaurantSystem\\OrderSystem.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T00:52:31.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "OrderSystem.Designer.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\OrderSystem.Designer.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\OrderSystem.Designer.cs",
               "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\OrderSystem.Designer.cs",
               "RelativeToolTip": "JRestaurantSystem\\OrderSystem.Designer.cs",
-              "ViewState": "AgIAAOQAAAAAAAAAAAAnwAIBAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T00:51:11.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "OrderSystem.cs [Design]",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\OrderSystem.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\OrderSystem.cs",
@@ -247,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "TableView.Designer.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\TableView.Designer.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.Designer.cs",
@@ -260,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\Program.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\Program.cs",
@@ -273,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TableView.cs [Design]",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\TableView.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.cs",
@@ -285,20 +335,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TableView.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\TableView.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.cs",
               "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\TableView.cs",
               "RelativeToolTip": "JRestaurantSystem\\TableView.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAArwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T22:06:00.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "RestaurantMap.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\RestaurantMap.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.cs",
@@ -311,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "RestaurantMap.cs [Design]",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\RestaurantMap.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.cs",
@@ -323,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "RestaurantMap.Designer.cs",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\RestaurantMap.Designer.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.Designer.cs",
@@ -336,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "JRestaurantSystem.csproj",
               "DocumentMoniker": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\JRestaurantSystem.csproj",
               "RelativeDocumentMoniker": "JRestaurantSystem\\JRestaurantSystem.csproj",

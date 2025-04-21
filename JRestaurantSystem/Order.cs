@@ -4,11 +4,11 @@ namespace JRestaurantSystem
 {
     public class Order
     {
-        public int TableNumber { get; set; }
+        public string TableNumber { get; set; }
         public string WaiterName { get; set; }
         public List<string> Items { get; set; }
 
-        public Order(int tableNumber, string waiterName, List<string> items)
+        public Order(string tableNumber, string waiterName, List<string> items)
         {
             TableNumber = tableNumber;
             WaiterName = waiterName;

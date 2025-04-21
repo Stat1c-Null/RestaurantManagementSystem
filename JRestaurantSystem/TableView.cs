@@ -20,6 +20,8 @@ namespace JRestaurantSystem
 
         private Waiter loggedInWaiter;
 
+        private KitchenForm kitchenForm;
+
         /// <summary>
         /// Constructor class that initializes a Table class with tableNumber, status and button assigned to it from restaurant map
         /// </summary>
@@ -40,6 +42,8 @@ namespace JRestaurantSystem
 
             tableButton = button;
             this.loggedInWaiter = loggedInWaiter;
+
+            kitchenForm = new KitchenForm();
         }
 
         /// <summary>
@@ -109,8 +113,13 @@ namespace JRestaurantSystem
 
         private void createOrderButton_Click(object sender, EventArgs e)
         {
-            OrderSystem order = new OrderSystem(loggedInWaiter.Name, tableNumber);
+            OrderSystem order = new OrderSystem(loggedInWaiter.Name, tableNumber, kitchenForm);
             order.Show();
+        }
+
+        private void viewOrderButton_Click(object sender, EventArgs e)
+        {
+            kitchenForm.Show();
         }
     }
 }

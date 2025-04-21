@@ -43,8 +43,8 @@ namespace JRestaurantSystem
                 return;
             }
 
-            Order newOrder = new Order(tableNumber, waiterName, selectedItems);
-            OrderQueue.Enqueue(newOrder);
+            //Order newOrder = new Order(tableNumber, waiterName, selectedItems);
+            //OrderQueue.Enqueue(newOrder);
 
             MessageBox.Show("Order placed and added to kitchen queue.");
         }

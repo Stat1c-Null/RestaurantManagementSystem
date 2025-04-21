@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JRestaurantSystem;
+using System;
 using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
@@ -61,6 +62,15 @@ namespace Tsunami
             );
 
             /// TODO: send confirmedItems to your backend or persist them
+            string tableNumber = lblTitle.Text;
+        
+            string waiterName = lblEmp.Text;
+
+            List<string> selectedItems = new List<string>();
+            selectedItems.AddRange(confirmedItems);
+
+            Order newOrder = new Order(tableNumber, waiterName, selectedItems);
+            kitchenForm.OrderQueue.Enqueue(newOrder);
         }
 
         /// <summary>
@@ -129,11 +139,11 @@ namespace Tsunami
             lblEmp.Dock = DockStyle.Right;
             lblEmp.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblEmp.ForeColor = Color.White;
-            lblEmp.Location = new Point(1000, 0);
+            lblEmp.Location = new Point(972, 0);
             lblEmp.Name = "lblEmp";
-            lblEmp.Size = new Size(200, 100);
+            lblEmp.Size = new Size(228, 100);
             lblEmp.TabIndex = 2;
-            lblEmp.Text = "Employee Name\nWaiter";
+            lblEmp.Text = "Employee Name";
             lblEmp.TextAlign = ContentAlignment.TopRight;
             // 
             // pnlSidebar
@@ -256,7 +266,7 @@ namespace Tsunami
             btnConfirmOrder.FlatStyle = FlatStyle.Flat;
             btnConfirmOrder.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
             btnConfirmOrder.ForeColor = Color.FromArgb(8, 32, 62);
-            btnConfirmOrder.Location = new Point(240, 20);
+            btnConfirmOrder.Location = new Point(972, 20);
             btnConfirmOrder.Name = "btnConfirmOrder";
             btnConfirmOrder.Size = new Size(180, 60);
             btnConfirmOrder.TabIndex = 3;
