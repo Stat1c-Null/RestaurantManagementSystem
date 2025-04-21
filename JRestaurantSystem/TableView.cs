@@ -17,6 +17,12 @@ namespace JRestaurantSystem
         public int numberOfSeats;
         private Button tableButton;
 
+        /// <summary>
+        /// Constructor class that initializes a Table class with tableNumber, status and button assigned to it from restaurant map
+        /// </summary>
+        /// <param name="tableNum"></param>
+        /// <param name="status"></param>
+        /// <param name="button"></param>
         public TableView(string tableNum, string status, Button button)
         {
             InitializeComponent();
@@ -50,6 +56,7 @@ namespace JRestaurantSystem
         {
             StatusLabel.Text = StatusSelector.Text;
             tableStatus = StatusSelector.Text;
+
             switch (tableStatus)
             {
                 case "OPEN":
@@ -62,9 +69,11 @@ namespace JRestaurantSystem
                     tableButton.BackColor = Color.Red;
                     break;
                 default:
-                    tableButton.BackColor = Color.Lime;
+                    tableButton.BackColor = Color.Black;
                     break;
             }
+
+            RestaurantMap.updateTableCounter();
         }
 
         /// <summary>

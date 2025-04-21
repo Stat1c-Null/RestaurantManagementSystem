@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            Table4DButton = new Button();
+            Table4CButton = new Button();
             Table1EButton = new Button();
             Table1FButton = new Button();
             Table2EButton = new Button();
@@ -99,6 +101,8 @@
             // panel1
             // 
             panel1.BackColor = Color.FromArgb(117, 160, 195);
+            panel1.Controls.Add(Table4DButton);
+            panel1.Controls.Add(Table4CButton);
             panel1.Controls.Add(Table1EButton);
             panel1.Controls.Add(Table1FButton);
             panel1.Controls.Add(Table2EButton);
@@ -145,6 +149,28 @@
             panel1.Size = new Size(585, 447);
             panel1.TabIndex = 0;
             // 
+            // Table4DButton
+            // 
+            Table4DButton.BackColor = Color.Black;
+            Table4DButton.Location = new Point(315, 194);
+            Table4DButton.Margin = new Padding(2);
+            Table4DButton.Name = "Table4DButton";
+            Table4DButton.Size = new Size(48, 33);
+            Table4DButton.TabIndex = 48;
+            Table4DButton.UseVisualStyleBackColor = false;
+            Table4DButton.Click += Table4DButton_Click;
+            // 
+            // Table4CButton
+            // 
+            Table4CButton.BackColor = Color.Black;
+            Table4CButton.Location = new Point(234, 194);
+            Table4CButton.Margin = new Padding(2);
+            Table4CButton.Name = "Table4CButton";
+            Table4CButton.Size = new Size(48, 33);
+            Table4CButton.TabIndex = 47;
+            Table4CButton.UseVisualStyleBackColor = false;
+            Table4CButton.Click += Table4CButton_Click;
+            // 
             // Table1EButton
             // 
             Table1EButton.BackColor = Color.Black;
@@ -154,6 +180,7 @@
             Table1EButton.Size = new Size(48, 33);
             Table1EButton.TabIndex = 46;
             Table1EButton.UseVisualStyleBackColor = false;
+            Table1EButton.Click += Table1EButton_Click;
             // 
             // Table1FButton
             // 
@@ -164,6 +191,7 @@
             Table1FButton.Size = new Size(48, 33);
             Table1FButton.TabIndex = 45;
             Table1FButton.UseVisualStyleBackColor = false;
+            Table1FButton.Click += Table1FButton_Click;
             // 
             // Table2EButton
             // 
@@ -174,6 +202,7 @@
             Table2EButton.Size = new Size(48, 33);
             Table2EButton.TabIndex = 44;
             Table2EButton.UseVisualStyleBackColor = false;
+            Table2EButton.Click += Table2EButton_Click;
             // 
             // Table2FButton
             // 
@@ -195,6 +224,7 @@
             Table3EButton.Size = new Size(48, 33);
             Table3EButton.TabIndex = 42;
             Table3EButton.UseVisualStyleBackColor = false;
+            Table3EButton.Click += Table3EButton_Click;
             // 
             // Table3FButton
             // 
@@ -216,6 +246,7 @@
             Table4EButton.Size = new Size(48, 33);
             Table4EButton.TabIndex = 40;
             Table4EButton.UseVisualStyleBackColor = false;
+            Table4EButton.Click += Table4EButton_Click;
             // 
             // Table4FButton
             // 
@@ -237,6 +268,7 @@
             Table1AButton.Size = new Size(48, 33);
             Table1AButton.TabIndex = 38;
             Table1AButton.UseVisualStyleBackColor = false;
+            Table1AButton.Click += Table1AButton_Click;
             // 
             // Table1BButton
             // 
@@ -247,6 +279,7 @@
             Table1BButton.Size = new Size(48, 33);
             Table1BButton.TabIndex = 37;
             Table1BButton.UseVisualStyleBackColor = false;
+            Table1BButton.Click += Table1BButton_Click;
             // 
             // Table2AButton
             // 
@@ -257,6 +290,7 @@
             Table2AButton.Size = new Size(48, 33);
             Table2AButton.TabIndex = 36;
             Table2AButton.UseVisualStyleBackColor = false;
+            Table2AButton.Click += Table2AButton_Click;
             // 
             // Table2BButton
             // 
@@ -267,6 +301,7 @@
             Table2BButton.Size = new Size(48, 33);
             Table2BButton.TabIndex = 35;
             Table2BButton.UseVisualStyleBackColor = false;
+            Table2BButton.Click += Table2BButton_Click;
             // 
             // Table3AButton
             // 
@@ -277,6 +312,7 @@
             Table3AButton.Size = new Size(48, 33);
             Table3AButton.TabIndex = 34;
             Table3AButton.UseVisualStyleBackColor = false;
+            Table3AButton.Click += Table3AButton_Click;
             // 
             // Table3BButton
             // 
@@ -287,6 +323,7 @@
             Table3BButton.Size = new Size(48, 33);
             Table3BButton.TabIndex = 33;
             Table3BButton.UseVisualStyleBackColor = false;
+            Table3BButton.Click += Table3BButton_Click;
             // 
             // Table4AButton
             // 
@@ -297,6 +334,7 @@
             Table4AButton.Size = new Size(48, 33);
             Table4AButton.TabIndex = 32;
             Table4AButton.UseVisualStyleBackColor = false;
+            Table4AButton.Click += Table4AButton_Click;
             // 
             // Table4BButton
             // 
@@ -307,6 +345,7 @@
             Table4BButton.Size = new Size(48, 33);
             Table4BButton.TabIndex = 31;
             Table4BButton.UseVisualStyleBackColor = false;
+            Table4BButton.Click += Table4BButton_Click;
             // 
             // Table5AButton
             // 
@@ -317,6 +356,7 @@
             Table5AButton.Size = new Size(48, 33);
             Table5AButton.TabIndex = 30;
             Table5AButton.UseVisualStyleBackColor = false;
+            Table5AButton.Click += Table5AButton_Click;
             // 
             // Table5FButton
             // 
@@ -327,6 +367,7 @@
             Table5FButton.Size = new Size(48, 33);
             Table5FButton.TabIndex = 29;
             Table5FButton.UseVisualStyleBackColor = false;
+            Table5FButton.Click += Table5FButton_Click;
             // 
             // Table5EButton
             // 
@@ -337,6 +378,7 @@
             Table5EButton.Size = new Size(48, 33);
             Table5EButton.TabIndex = 28;
             Table5EButton.UseVisualStyleBackColor = false;
+            Table5EButton.Click += Table5EButton_Click;
             // 
             // Table5CButton
             // 
@@ -347,6 +389,7 @@
             Table5CButton.Size = new Size(48, 33);
             Table5CButton.TabIndex = 27;
             Table5CButton.UseVisualStyleBackColor = false;
+            Table5CButton.Click += Table5CButton_Click;
             // 
             // Table5BButton
             // 
@@ -357,6 +400,7 @@
             Table5BButton.Size = new Size(48, 33);
             Table5BButton.TabIndex = 26;
             Table5BButton.UseVisualStyleBackColor = false;
+            Table5BButton.Click += Table5BButton_Click;
             // 
             // Table5DButton
             // 
@@ -367,6 +411,7 @@
             Table5DButton.Size = new Size(48, 33);
             Table5DButton.TabIndex = 25;
             Table5DButton.UseVisualStyleBackColor = false;
+            Table5DButton.Click += Table5DButton_Click;
             // 
             // Table6AButton
             // 
@@ -377,6 +422,7 @@
             Table6AButton.Size = new Size(48, 33);
             Table6AButton.TabIndex = 24;
             Table6AButton.UseVisualStyleBackColor = false;
+            Table6AButton.Click += Table6AButton_Click;
             // 
             // Table6FButton
             // 
@@ -387,6 +433,7 @@
             Table6FButton.Size = new Size(48, 33);
             Table6FButton.TabIndex = 23;
             Table6FButton.UseVisualStyleBackColor = false;
+            Table6FButton.Click += Table6FButton_Click;
             // 
             // Table6EButton
             // 
@@ -397,6 +444,7 @@
             Table6EButton.Size = new Size(48, 33);
             Table6EButton.TabIndex = 22;
             Table6EButton.UseVisualStyleBackColor = false;
+            Table6EButton.Click += Table6EButton_Click;
             // 
             // Table6CButton
             // 
@@ -407,6 +455,7 @@
             Table6CButton.Size = new Size(48, 33);
             Table6CButton.TabIndex = 21;
             Table6CButton.UseVisualStyleBackColor = false;
+            Table6CButton.Click += Table6CButton_Click;
             // 
             // Table6BButton
             // 
@@ -417,6 +466,7 @@
             Table6BButton.Size = new Size(48, 33);
             Table6BButton.TabIndex = 20;
             Table6BButton.UseVisualStyleBackColor = false;
+            Table6BButton.Click += Table6BButton_Click;
             // 
             // Table6DButton
             // 
@@ -427,6 +477,7 @@
             Table6DButton.Size = new Size(48, 33);
             Table6DButton.TabIndex = 19;
             Table6DButton.UseVisualStyleBackColor = false;
+            Table6DButton.Click += Table6DButton_Click;
             // 
             // BarPanel
             // 
@@ -436,7 +487,7 @@
             BarPanel.Location = new Point(234, 14);
             BarPanel.Margin = new Padding(2);
             BarPanel.Name = "BarPanel";
-            BarPanel.Size = new Size(129, 237);
+            BarPanel.Size = new Size(129, 156);
             BarPanel.TabIndex = 18;
             BarPanel.Paint += BarPanel_Paint;
             // 
@@ -445,7 +496,7 @@
             label21.AutoSize = true;
             label21.Font = new Font("Segoe UI", 17.855999F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label21.ForeColor = SystemColors.ButtonFace;
-            label21.Location = new Point(34, 94);
+            label21.Location = new Point(31, 56);
             label21.Name = "label21";
             label21.Size = new Size(62, 32);
             label21.TabIndex = 20;
@@ -665,9 +716,9 @@
             OpenSeatsLabel.ForeColor = SystemColors.ButtonFace;
             OpenSeatsLabel.Location = new Point(362, 182);
             OpenSeatsLabel.Name = "OpenSeatsLabel";
-            OpenSeatsLabel.Size = new Size(39, 25);
+            OpenSeatsLabel.Size = new Size(59, 25);
             OpenSeatsLabel.TabIndex = 19;
-            OpenSeatsLabel.Text = "0/0";
+            OpenSeatsLabel.Text = "24/24";
             // 
             // DirtySeatsLabel
             // 
@@ -676,9 +727,9 @@
             DirtySeatsLabel.ForeColor = SystemColors.ButtonFace;
             DirtySeatsLabel.Location = new Point(362, 205);
             DirtySeatsLabel.Name = "DirtySeatsLabel";
-            DirtySeatsLabel.Size = new Size(39, 25);
+            DirtySeatsLabel.Size = new Size(49, 25);
             DirtySeatsLabel.TabIndex = 18;
-            DirtySeatsLabel.Text = "0/0";
+            DirtySeatsLabel.Text = "0/24";
             // 
             // OccupiedSeatsLabel
             // 
@@ -687,9 +738,9 @@
             OccupiedSeatsLabel.ForeColor = SystemColors.ButtonFace;
             OccupiedSeatsLabel.Location = new Point(362, 228);
             OccupiedSeatsLabel.Name = "OccupiedSeatsLabel";
-            OccupiedSeatsLabel.Size = new Size(39, 25);
+            OccupiedSeatsLabel.Size = new Size(49, 25);
             OccupiedSeatsLabel.TabIndex = 17;
-            OccupiedSeatsLabel.Text = "0/0";
+            OccupiedSeatsLabel.Text = "0/24";
             // 
             // OccupiedTablesLabel
             // 
@@ -873,9 +924,9 @@
         private Label OpenSeatsLabel;
         private Label DirtySeatsLabel;
         private Label OccupiedSeatsLabel;
-        private Label OccupiedTablesLabel;
-        private Label DirtyTablesLabel;
-        private Label OpenTablesLabel;
+        private static Label OccupiedTablesLabel;
+        private static Label DirtyTablesLabel;
+        private static Label OpenTablesLabel;
         private Label label9;
         private Label label14;
         private Label label13;
@@ -918,5 +969,7 @@
         private Button Table2FButton;
         private Button Table3FButton;
         private Button Table4FButton;
+        private Button Table4DButton;
+        private Button Table4CButton;
     }
 }
