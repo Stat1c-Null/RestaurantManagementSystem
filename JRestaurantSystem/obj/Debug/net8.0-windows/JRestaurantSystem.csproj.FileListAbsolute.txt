@@ -15,3 +15,21 @@ C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\
 C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.pdb
 C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.genruntimeconfig.cache
 C:\Users\slaby\Documents\GitHub\RestaurantManagmentSystem\JRestaurantSystem\obj\Debug\net8.0-windows\ref\JRestaurantSystem.dll
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.exe
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.deps.json
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.runtimeconfig.json
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.dll
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\bin\Debug\net8.0-windows\JRestaurantSystem.pdb
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.csproj.GenerateResource.cache
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.AssemblyInfoInputs.cache
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.AssemblyInfo.cs
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.csproj.CoreCompileInputs.cache
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.dll
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\refint\JRestaurantSystem.dll
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.pdb
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.genruntimeconfig.cache
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\ref\JRestaurantSystem.dll
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.Properties.Resources.resources
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.ExitConfirmationForm.resources
+C:\VS Projects\RestaurantManagementSystem-main\JRestaurantSystem\obj\Debug\net8.0-windows\JRestaurantSystem.LoginForm.resources
