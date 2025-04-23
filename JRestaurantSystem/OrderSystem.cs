@@ -161,10 +161,6 @@ namespace Tsunami
 
         }
 
-
-
-
-
         /// <summary>
         /// Draws the menu categories, including a header label
         /// </summary>
@@ -349,8 +345,6 @@ namespace Tsunami
             pnlContent.Controls.Add(btnAdd);
         }
 
-
-
         /// <summary>
         /// Builds a modal dialog to confirm the order.
         /// </summary>
@@ -459,8 +453,6 @@ namespace Tsunami
             }
             lblTotal.Text = $"Total: ${total}";
         }
-
-
 
         /// <summary>
         /// Handle button clicks to navigate back to the previous page

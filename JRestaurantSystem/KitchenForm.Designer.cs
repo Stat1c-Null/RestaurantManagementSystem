@@ -45,15 +45,6 @@
             buttonServeNext.UseVisualStyleBackColor = true;
             buttonServeNext.Click += buttonServeNext_Click;
             // 
-            // labelQueue
-            // 
-            labelQueue.AutoSize = true;
-            labelQueue.Location = new Point(100, 200);
-            labelQueue.Name = "labelQueue";
-            labelQueue.Size = new Size(108, 21);
-            labelQueue.TabIndex = 2;
-            labelQueue.Text = "Orders Queue";
-            // 
             // CloseForm
             // 
             CloseForm.Location = new Point(1447, 185);
@@ -87,6 +78,7 @@
             Load += KitchenForm_Load;
             ResumeLayout(false);
             PerformLayout();
+            this.MaximizeBox = false;
         }
         private Button CloseForm;
         private Button UpdateButton;

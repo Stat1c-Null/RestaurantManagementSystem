@@ -313,6 +313,9 @@
             panel1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
+
+            //Not able to maximixe the screen
+            this.MaximizeBox = false;
         }
 
         #endregion

@@ -80,6 +80,9 @@
             this.Text = "Order System";
             this.ResumeLayout(false);
             this.PerformLayout();
+
+            //Not maximizing the screen
+            this.MaximizeBox = false;
         }
     }
 }

@@ -11,10 +11,15 @@ namespace JRestaurantSystem
         public Form1()
         {
             InitializeComponent();
-            this.Font = new Font("Segoe UI", 10F, FontStyle.Regular);  
+            this.Font = new Font("Segoe UI", 10F, FontStyle.Regular);
             this.AutoScaleMode = AutoScaleMode.Font;
         }
 
+        /// <summary>
+        /// Event handler for placing an order and makes sure with the table number, waiter selection, and items before going in
+        /// </summary>
+        /// <param name="sender">clicker event</param>
+        /// <param name="e">Event arguments</param>
         private void buttonPlaceOrder_Click(object sender, EventArgs e)
         {
             int tableNumber;
@@ -42,19 +47,25 @@ namespace JRestaurantSystem
                 MessageBox.Show("Please select at least one item.");
                 return;
             }
-
-            //Order newOrder = new Order(tableNumber, waiterName, selectedItems);
-            //OrderQueue.Enqueue(newOrder);
-
             MessageBox.Show("Order placed and added to kitchen queue.");
         }
 
+        /// <summary>
+        /// Event handler to open tthe kitchenForm & view it
+        /// </summary>
+        /// <param name="sender">Clicker event</param>
+        /// <param name="e">Event arguments</param>
         private void buttonViewKitchen_Click(object sender, EventArgs e)
         {
             KitchenForm kitchenForm = new KitchenForm();
             kitchenForm.Show();
         }
 
+        /// <summary>
+        /// Diff button for viewing kitchen
+        /// </summary>
+        /// <param name="sender">clicker event</param>
+        /// <param name="e">Event arguments</param>
         private void buttonOpenKitchen_Click(object sender, EventArgs e)
         {
             KitchenForm kitchenForm = new KitchenForm();

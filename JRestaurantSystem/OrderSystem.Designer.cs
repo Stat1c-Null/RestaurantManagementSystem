@@ -63,7 +63,7 @@ namespace Tsunami
 
             /// Send order to the kitchen
             string tableNumber = lblTitle.Text;
-        
+
             string waiterName = lblEmp.Text;
 
             List<string> selectedItems = new List<string>();

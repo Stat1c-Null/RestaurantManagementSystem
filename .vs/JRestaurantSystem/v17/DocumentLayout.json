@@ -1,98 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\ordersystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\kitchenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\tableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\restaurantmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\restaurantmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\restaurantmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\jrestaurantsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\jrestaurantsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\waiters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\waiters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\tableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\queueform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\queueform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\ordersystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\kitchenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\slaby\\documents\\github\\restaurantmanagmentsystem\\jrestaurantsystem\\waiters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\waiters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\exitconfirmationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\exitconfirmationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\exitconfirmationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\exitconfirmationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\jrestaurantsystem\\exitconfirmationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\exitconfirmationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\queueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\restaurantmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\tableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\kitchenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\ordersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\jrestaurantsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\jrestaurantsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|c:\\users\\user\\downloads\\restaurantmanagementsystem-main\\swesprint2\\sprint2\\jrestaurantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC46DD5-3D9F-4220-A922-B031B3207DEE}|JRestaurantSystem\\JRestaurantSystem.csproj|solutionrelative:jrestaurantsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,186 +118,311 @@
       "DocumentGroups": [
         {
           "DockedWidth": 84,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "KitchenForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\KitchenForm.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\KitchenForm.cs [Design]",
-              "RelativeToolTip": "JRestaurantSystem\\KitchenForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:40:20.233Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "QueueForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\QueueForm.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\QueueForm.cs",
-              "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\QueueForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:48:41.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "waiters.txt",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\waiters.txt",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\waiters.txt",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\waiters.txt",
-              "RelativeToolTip": "JRestaurantSystem\\waiters.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-21T05:05:44.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\LoginForm.Designer.cs",
-              "RelativeToolTip": "JRestaurantSystem\\LoginForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:55:24.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\LoginForm.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\LoginForm.cs [Design]",
-              "RelativeToolTip": "JRestaurantSystem\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:54:29.887Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\LoginForm.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\LoginForm.cs",
-              "RelativeToolTip": "JRestaurantSystem\\LoginForm.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAmwE8AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:54:35.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\Login.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\Login.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\Login.cs",
-              "RelativeToolTip": "JRestaurantSystem\\Login.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwE4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:54:20.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Waiter.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\Waiter.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\Waiter.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\Waiter.cs",
-              "RelativeToolTip": "JRestaurantSystem\\Waiter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:41:00.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "QueueForm.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\QueueForm.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\QueueForm.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\QueueForm.cs",
-              "RelativeToolTip": "JRestaurantSystem\\QueueForm.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowAgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:48:46.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KitchenForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\KitchenForm.Designer.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.Designer.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\KitchenForm.Designer.cs",
-              "RelativeToolTip": "JRestaurantSystem\\KitchenForm.Designer.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:37:56.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KitchenForm.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\KitchenForm.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\KitchenForm.cs",
-              "RelativeToolTip": "JRestaurantSystem\\KitchenForm.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:41:28.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\Order.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\Order.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\Order.cs",
-              "RelativeToolTip": "JRestaurantSystem\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T04:41:17.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderSystem.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\OrderSystem.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\OrderSystem.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\OrderSystem.cs",
-              "RelativeToolTip": "JRestaurantSystem\\OrderSystem.cs",
-              "ViewState": "AgIAAL0BAAAAAAAAAADwv8sBAAAvAAAAAAAAAA==",
+              "Title": "RestaurantMap.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\RestaurantMap.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\RestaurantMap.cs",
+              "RelativeToolTip": "JRestaurantSystem\\RestaurantMap.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwHUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T00:52:31.513Z",
+              "WhenOpened": "2025-04-19T21:14:38.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RestaurantMap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\RestaurantMap.Designer.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\RestaurantMap.Designer.cs",
+              "RelativeToolTip": "JRestaurantSystem\\RestaurantMap.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAYwNkDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:11:12.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TableView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\TableView.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\TableView.cs",
+              "RelativeToolTip": "JRestaurantSystem\\TableView.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:06:00.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\TableView.Designer.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\TableView.Designer.cs",
+              "RelativeToolTip": "JRestaurantSystem\\TableView.Designer.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAiwEQBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:05:50.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\Waiter.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\Waiter.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\Waiter.cs",
+              "RelativeToolTip": "JRestaurantSystem\\Waiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:41:00.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "waiters.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\waiters.txt",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\waiters.txt",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\waiters.txt",
+              "RelativeToolTip": "JRestaurantSystem\\waiters.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-21T05:05:44.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueueForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\QueueForm.Designer.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\QueueForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\QueueForm.Designer.cs",
+              "RelativeToolTip": "JRestaurantSystem\\QueueForm.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:37:27.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\QueueForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\QueueForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\QueueForm.cs",
+              "RelativeToolTip": "JRestaurantSystem\\QueueForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:48:46.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "OrderSystem.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\OrderSystem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\OrderSystem.Designer.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\OrderSystem.Designer.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\OrderSystem.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\OrderSystem.Designer.cs",
               "RelativeToolTip": "JRestaurantSystem\\OrderSystem.Designer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwD8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAiwB4BAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T00:51:11.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\OrderSystem.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\OrderSystem.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\OrderSystem.cs",
+              "RelativeToolTip": "JRestaurantSystem\\OrderSystem.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswMsBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:52:31.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\Order.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\Order.cs",
+              "RelativeToolTip": "JRestaurantSystem\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:41:17.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\LoginForm.Designer.cs",
+              "RelativeToolTip": "JRestaurantSystem\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:55:24.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\LoginForm.cs",
+              "RelativeToolTip": "JRestaurantSystem\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:54:35.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\Login.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\Login.cs",
+              "RelativeToolTip": "JRestaurantSystem\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:54:20.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KitchenForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\KitchenForm.Designer.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\KitchenForm.Designer.cs",
+              "RelativeToolTip": "JRestaurantSystem\\KitchenForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:37:56.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KitchenForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\KitchenForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\KitchenForm.cs",
+              "RelativeToolTip": "JRestaurantSystem\\KitchenForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:41:28.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExitConfirmationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\ExitConfirmationForm.Designer.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\ExitConfirmationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\ExitConfirmationForm.Designer.cs",
+              "RelativeToolTip": "JRestaurantSystem\\ExitConfirmationForm.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:24:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExitConfirmationForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\ExitConfirmationForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\ExitConfirmationForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\ExitConfirmationForm.cs",
+              "RelativeToolTip": "JRestaurantSystem\\ExitConfirmationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:24:52.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExitConfirmationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\ExitConfirmationForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\ExitConfirmationForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\ExitConfirmationForm.cs [Design]",
+              "RelativeToolTip": "JRestaurantSystem\\ExitConfirmationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:24:37.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "JRestaurantSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:54:29.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QueueForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\QueueForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\QueueForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\QueueForm.cs [Design]",
+              "RelativeToolTip": "JRestaurantSystem\\QueueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:48:41.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RestaurantMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\RestaurantMap.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\RestaurantManagementSystem-main\\JRestaurantSystem\\RestaurantMap.cs [Design]",
+              "RelativeToolTip": "..\\RestaurantManagementSystem-main\\JRestaurantSystem\\RestaurantMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:06:43.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TableView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\TableView.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\RestaurantManagementSystem-main\\JRestaurantSystem\\TableView.cs [Design]",
+              "RelativeToolTip": "..\\RestaurantManagementSystem-main\\JRestaurantSystem\\TableView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T22:01:49.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KitchenForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\KitchenForm.cs",
+              "RelativeDocumentMoniker": "JRestaurantSystem\\KitchenForm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\RestaurantManagementSystem-main\\JRestaurantSystem\\KitchenForm.cs [Design]",
+              "RelativeToolTip": "..\\RestaurantManagementSystem-main\\JRestaurantSystem\\KitchenForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:40:20.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "OrderSystem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\OrderSystem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\OrderSystem.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\OrderSystem.cs",
               "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\OrderSystem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,23 +430,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TableView.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\TableView.Designer.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.Designer.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\TableView.Designer.cs",
-              "RelativeToolTip": "JRestaurantSystem\\TableView.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T22:05:50.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\Program.cs",
               "RelativeDocumentMoniker": "JRestaurantSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\Program.cs",
               "RelativeToolTip": "JRestaurantSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,68 +442,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TableView.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\TableView.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.cs",
-              "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\TableView.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T22:01:49.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TableView.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\TableView.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\TableView.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\TableView.cs",
-              "RelativeToolTip": "JRestaurantSystem\\TableView.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAArwCEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T22:06:00.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RestaurantMap.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\RestaurantMap.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\RestaurantMap.cs",
-              "RelativeToolTip": "JRestaurantSystem\\RestaurantMap.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAABQBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:14:38.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RestaurantMap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\RestaurantMap.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.cs",
-              "ToolTip": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\RestaurantMap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T06:06:43.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RestaurantMap.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\RestaurantMap.Designer.cs",
-              "RelativeDocumentMoniker": "JRestaurantSystem\\RestaurantMap.Designer.cs",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\RestaurantMap.Designer.cs",
-              "RelativeToolTip": "JRestaurantSystem\\RestaurantMap.Designer.cs",
-              "ViewState": "AgIAAHIDAAAAAAAAAAAAAJYDAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T21:11:12.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "JRestaurantSystem.csproj",
-              "DocumentMoniker": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\JRestaurantSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\JRestaurantSystem.csproj",
               "RelativeDocumentMoniker": "JRestaurantSystem\\JRestaurantSystem.csproj",
-              "ToolTip": "C:\\Users\\slaby\\Documents\\GitHub\\RestaurantManagmentSystem\\JRestaurantSystem\\JRestaurantSystem.csproj",
+              "ToolTip": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\JRestaurantSystem.csproj",
               "RelativeToolTip": "JRestaurantSystem\\JRestaurantSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

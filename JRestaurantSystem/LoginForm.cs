@@ -2,14 +2,17 @@ namespace JRestaurantSystem
 {
     public partial class LoginForm : Form
     {
-
         private Login loginManager;
+
+        /// <summary>
+        /// Constructor that initializes the login form and checks for the waiter in the other file
+        /// </summary>
         public LoginForm()
         {
             InitializeComponent();
             loginManager = new Login();
 
-            //Check
+            // Check if the file containing waiter data exists
             if (!loginManager.WaitersFileExists())
             {
                 lblResult.Text = "Error: file not found.";
@@ -44,6 +47,9 @@ namespace JRestaurantSystem
 
         }
 
+        /// <summary>
+        /// Event handler for the exit button to click to confirm if the user wants to close the application
+        /// </summary>
         private void exitButton_Click(object sender, EventArgs e)
         {
             //create and show the exit confirmation dialog
@@ -59,13 +65,17 @@ namespace JRestaurantSystem
             }
         }
 
+        /// <summary>
+        /// Handles login attempts when the login button is clicked
+        /// Checks the PIN & authenticate with the actual PIN
+        /// </summary>
         private void logButton_Click(object sender, EventArgs e)
         {
             lblResult.Text = "";
 
             if (string.IsNullOrEmpty(txtPin.Text))
             {
-                lblResult.Text = "Please emter PIN";
+                lblResult.Text = "Please enter PIN";
                 return;
             }
 
@@ -97,6 +107,11 @@ namespace JRestaurantSystem
         }
 
         private void lblResult_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
         {
 
         }

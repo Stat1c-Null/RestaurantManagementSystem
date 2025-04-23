@@ -201,7 +201,7 @@ namespace JRestaurantSystem
             // 
             // Table2EButton
             // 
-            Table2EButton.BackColor = Color.Lime;
+            Table2EButton.BackColor = Color.Black;
             Table2EButton.Location = new Point(400, 70);
             Table2EButton.Margin = new Padding(2);
             Table2EButton.Name = "Table2EButton";
@@ -212,7 +212,7 @@ namespace JRestaurantSystem
             // 
             // Table2FButton
             // 
-            Table2FButton.BackColor = Color.Lime;
+            Table2FButton.BackColor = Color.Black;
             Table2FButton.Location = new Point(472, 70);
             Table2FButton.Margin = new Padding(2);
             Table2FButton.Name = "Table2FButton";
@@ -223,7 +223,7 @@ namespace JRestaurantSystem
             // 
             // Table3EButton
             // 
-            Table3EButton.BackColor = Color.Lime;
+            Table3EButton.BackColor = Color.Black;
             Table3EButton.Location = new Point(400, 133);
             Table3EButton.Margin = new Padding(2);
             Table3EButton.Name = "Table3EButton";
@@ -234,7 +234,7 @@ namespace JRestaurantSystem
             // 
             // Table3FButton
             // 
-            Table3FButton.BackColor = Color.Lime;
+            Table3FButton.BackColor = Color.Black;
             Table3FButton.Location = new Point(472, 133);
             Table3FButton.Margin = new Padding(2);
             Table3FButton.Name = "Table3FButton";
@@ -245,7 +245,7 @@ namespace JRestaurantSystem
             // 
             // Table4EButton
             // 
-            Table4EButton.BackColor = Color.Lime;
+            Table4EButton.BackColor = Color.Black;
             Table4EButton.Location = new Point(400, 198);
             Table4EButton.Margin = new Padding(2);
             Table4EButton.Name = "Table4EButton";
@@ -256,7 +256,7 @@ namespace JRestaurantSystem
             // 
             // Table4FButton
             // 
-            Table4FButton.BackColor = Color.Lime;
+            Table4FButton.BackColor = Color.Black;
             Table4FButton.Location = new Point(472, 198);
             Table4FButton.Margin = new Padding(2);
             Table4FButton.Name = "Table4FButton";
@@ -910,6 +910,9 @@ namespace JRestaurantSystem
             panel2.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
+
+            //Not able to maximize the screen
+            this.MaximizeBox = false;
         }
 
         #endregion

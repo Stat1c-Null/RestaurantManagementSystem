@@ -46,6 +46,12 @@ namespace JRestaurantSystem
             kitchenForm = new KitchenForm();
         }
 
+        // Public method to update button color at the start of the screen for each waiter
+        public void UpdateTableButtonColor(Color color)
+        {
+            tableButton.BackColor = color;
+        }
+
         /// <summary>
         /// Close TableView window
         /// </summary>

@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace JRestaurantSystem
 {
+    /// <summary>
+    /// Has the login functionality for waiters by reading the file
+    /// verifying logins, and managing the currently logged-in waiter
+    /// </summary>
     public class Login
     {
         private List<Waiter> waiters;
@@ -13,6 +17,9 @@ namespace JRestaurantSystem
         private static Waiter currentWaiter;
         private string filePath;
 
+        /// <summary>
+        /// new instance of the <see cref="Login"/> class and loads waiter & from the file
+        /// </summary>
         public Login()
         {
             waiters = new List<Waiter>();
@@ -21,11 +28,14 @@ namespace JRestaurantSystem
             LoadWaitersFromFile();
         }
 
+        /// <summary>
+        /// Loads waiter data from the file 
+        /// </summary>
         private void LoadWaitersFromFile()
         {
             try
             {
-                
+
                 if (File.Exists(filePath))
                 {
                     string[] lines = File.ReadAllLines(filePath);
@@ -55,6 +65,11 @@ namespace JRestaurantSystem
             }
         }
 
+        /// <summary>
+        /// logs in a waiter using their PIN
+        /// </summary>
+        /// <param name="employeeNum">PIN waiter enters</param>
+        /// <returns>True if login is successful; otherwise, false.</returns>
         public bool logIn(int employeeNum)
         {
             if (employeeLoginNums.Contains(employeeNum))
@@ -78,6 +93,10 @@ namespace JRestaurantSystem
             }
         }
 
+        /// <summary>
+        /// Logs out the waiter that's logged in now if the number matches
+        /// </summary>
+        /// <param name="employeeNum">PIN of the waiter logging out</param>
         public static void logOut(int employeeNum)
         {
             if (currentWaiter != null && currentWaiter.EmployeeNum == employeeNum)
@@ -91,11 +110,13 @@ namespace JRestaurantSystem
             }
         }
 
+        //Gets the current loggedin waiter
         public Waiter GetCurrentWaiter()
         {
             return currentWaiter;
         }
 
+        //To check if the waiter file exists
         public bool WaitersFileExists()
         {
             return File.Exists(filePath);

@@ -5,6 +5,7 @@ namespace JRestaurantSystem
 {
     public partial class KitchenForm : Form
     {
+        //Creates an public queue to use for showing the orders get queued and dequeued for the kitchen people
         public Queue<Order> OrderQueue = new Queue<Order>();
 
         public KitchenForm()
@@ -12,6 +13,7 @@ namespace JRestaurantSystem
             InitializeComponent();
         }
 
+        //update queue method to update the queue happens when we load the screen
         private void KitchenForm_Load(object sender, EventArgs e)
         {
             UpdateQueueDisplay();
@@ -26,6 +28,7 @@ namespace JRestaurantSystem
             }
         }
 
+        //To dequeue the orders when the order is complete in the kitchen(served)
         private void buttonServeNext_Click(object sender, EventArgs e)
         {
             if (OrderQueue.Count > 0)
@@ -45,6 +48,7 @@ namespace JRestaurantSystem
             this.Hide();
         }
 
+        //Refreshes the update queue manuallyy
         private void UpdateButton_Click(object sender, EventArgs e)
         {
             UpdateQueueDisplay();
