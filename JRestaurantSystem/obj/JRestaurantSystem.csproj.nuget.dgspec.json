@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\JRestaurantSystem.csproj": {}
+    "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\JRestaurantSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\JRestaurantSystem.csproj": {
+    "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\JRestaurantSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\JRestaurantSystem.csproj",
+        "projectUniqueName": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\JRestaurantSystem.csproj",
         "projectName": "JRestaurantSystem",
-        "projectPath": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\JRestaurantSystem.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\RestaurantManagementSystem-main\\SWESprint2\\Sprint2\\JRestaurantSystem\\obj\\",
+        "projectPath": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\JRestaurantSystem.csproj",
+        "packagesPath": "C:\\Users\\slaby\\.nuget\\packages\\",
+        "outputPath": "Z:\\Coding\\GitHub\\C#\\RestaurantManagementSystem\\JRestaurantSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\slaby\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

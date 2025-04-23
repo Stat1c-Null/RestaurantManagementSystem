@@ -70,3 +70,10 @@ A comprehensive Windows Forms application for managing restaurant operations, in
 - `Order.cs` - Order data structure
 
 
+## Waiters Login Credentials
+Ryan Gosling, 1111
+James Bond, 2222
+Elvis Presley, 3333
+Elon Musk, 4444
+Vladimir Putin, 5555
+
